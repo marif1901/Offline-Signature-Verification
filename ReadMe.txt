@@ -1,7 +1,7 @@
-Work done in 7th sem and 8th sem are kept separately under two separate folders "7th sem" and "8th sem"
-For 7th sem works:
+Work done in Version1 and Version2 are kept separately under two separate folders "Version1" and "Version2"
+For Version1 works:
 
-1)go to 7th sem folder
+1)go to Version1 folder
 Two main fetaures were used : a)F1 & F2 , b) Grid
 for F1_F2
 2)go to "Histogram_F1_F2" folder
@@ -11,8 +11,8 @@ for grid
 5)run "Main_Grid"
 
 
-For 8th sem works:
-1)go to "8th sem" folder
+For Version2 works:
+1)go to "Version2" folder
 New Features Used : a)LBP , b)GMM ,c) Fusion ,d)SVM  ,e)VQ
 1)Run "MAIN_LBP" for lbp
 2)Run "Main_LBP_F1_F2" for fusion of lbp and F1_F2
